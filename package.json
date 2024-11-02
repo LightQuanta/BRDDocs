@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev BRDDocs",
+    "docs:build": "vitepress build BRDDocs",
+    "docs:preview": "vitepress preview BRDDocs"
+  }
+}
